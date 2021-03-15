@@ -1,0 +1,17 @@
+img{
+    width: 300px;
+    border-radius: 200px;
+}
+.out{
+    display: flex;
+}
+.education{
+    text-align: center;
+}
+.container{
+    background-color: darkgray;
+}
+.educ{
+    float: left;
+    width: 33.3%;
+}
